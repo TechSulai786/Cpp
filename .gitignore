@@ -1,0 +1,10 @@
+# Folders to ignore
+.vscode/
+bin/
+output/
+obj/
+.vs/
+
+# File types to ignore
+*.exe
+*.o
